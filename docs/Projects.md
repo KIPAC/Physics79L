@@ -17,7 +17,7 @@ You are definitely encouraged to design your own project, but please speak to us
 For each project, we have provided you with most of the necessary code in some form, which you will need to adapt. Some projects require more programming knowledge than others (explanations below). Please don't hesitate to ask us for assistance with the code or the concepts!
 
 ### Template projects
-Here is a description of the five template projects available:
+Here is a description of the six template projects available:
 
 #### 1. Quantifying the "Hubble Tension"
 

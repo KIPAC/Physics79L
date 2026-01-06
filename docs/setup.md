@@ -2,7 +2,7 @@
 
 We will be using [Jupyter notebooks](https://jupyter.org/) running Python kernels to do the labs in this course. [This](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) is a brief explanation of what a jupyter notebook is. Please follow the instructions on this page to set up the software needed to run these jupyter notebooks.
 
-Each week you will be working through 1-3 notebooks during the lab time, and then spending some additional time writing up a short report on what you did.
+Each week you will be working through 1-3 notebooks during the lab time, and then spending some additional time writing up a short write-up on what you did.
 
 Getting set up to run these notebooks on your computer can be challenging, so hopefully everything works well for you, but please don't worry if you have problems getting set up.  We have a lot of options and will make sure that everyone can work effectively.
 
@@ -24,9 +24,9 @@ Please follow these steps:
 2. Download the notebooks and data for this course. There are three ways you can access these:
    1. [Using the github-desktop app](#option-1-using-the-github-desktop-application-easiest) (recommended for ease of installation)
         1. This will take longer to set up but will be easier to update each week.
-   2. [Using the git tool](#option-2-using-git)
+   2. [Using the git tool](#option-2-using-git-requires-terminal-knowledge)
         1. You will have to use the terminal window.
-   3. [Downloading them from the repository directly](#option-3-direct-download)
+   3. [Downloading them from the repository directly](#option-3-direct-download-not-recommended-but-a-backup)
 
 3. [Open the jupyter notebook browser](#open-the-jupyter-notebook-browser)
 4. [Test your setup](#test-your-setup)
@@ -54,9 +54,12 @@ The `Anaconda` data analysis environment is much more complete than miniconda, a
 
 It does have the nice feature of complete application and environment, so you won't have to use the terminal to install anything.
 
-You can download anaconda for free [HERE](https://www.anaconda.com/download).
-- Click "Skip registration" instead of providing your email
-- Install Python 3.11 to ensure code compatibility
+You can download anaconda for free [HERE](https://www.anaconda.com/download/success).
+- If you follow the above link, it will bypass having to make an account and you can just download the installer
+- Choose your operating system, then download the appropriate **Anaconda Distribution**
+- This will download an executable or disk image, which you can then install like any other software
+- As you're going through the installation procedure, it may be helpful to specify a path for the anaconda distribution directly in your home folder. For me, this looks like: `C:\Users\cblakemore\anaconda3`
+- It does take a few minutes to install and setup the `base` environment, so don't lose patience!
 
 This installation will include numpy, matplotlib, scipy and jupyter so you shouldn't have to do anything else.
 
@@ -67,28 +70,29 @@ You can also get up and running with [Miniconda](https://www.anaconda.com/docs/g
 
 Once you have installed and setup up Miniconda, run this command in the terminal window to install the extra packages that you will need for this course
 
-	`conda install python=3.11 numpy scipy matplotlib jupyter` 
+	`conda install python=3.13 numpy scipy matplotlib jupyter` 
 
 
 ## Downloading the notebooks and data
 
 
-### Option 1: Using the Github Desktop application (easiest)
+### Option 1: Using the GitHub Desktop application (easiest)
 
-The Github Desktop application is both a nice tool to interface with git, and a way to use git without needing to use a terminal.  Here is what you will need to do to use Github Desktop.
+The GitHub Desktop application is both a nice tool to interface with git, and a way to use git without needing to use a terminal.  Here is what you will need to do to use GitHub Desktop.
 
-1. Install the github desktop app from here: [https://desktop.github.com/](https://desktop.github.com/)
-2. You should make a Github account if you do not have one, as it will be useful beyond this course, and is needed to download the repository
-3. Once you have installed github desktop and made an account, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
+1. Install the GitHub Desktop app from here: [https://desktop.github.com/](https://desktop.github.com/)
+2. You should make a GitHub account if you do not have one, as it will be useful beyond this course, and is needed to download the repository
+3. Once you have installed the program and made an account, open up GitGub Desktop
+4. Click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
      1. Alternatively, where it says "Let's get started!", click "Clone a Repository from the Internet", and then select the "URL" tab.
-4. Type in 'KIPAC/Physics79L' into the text box and select "Clone Repository..." from the drop-down menu.
-5. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics79L"
+5. Type in 'KIPAC/Physics79L' into the text box and select "Clone Repository..." from the drop-down menu.
+6. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics79L"
      1. You can always change this installation location if you have already have a file organization structure in place on your laptop.
-6. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
-7. This will show all the changes that you have made to your local version.  As part of the course, we'll talk about how to keep your local changes and merge any updates from the "origin".
+7. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
+8. This will show all the changes that you have made to your local version.  As part of the course, we'll talk about how to keep your local changes and merge any updates from the "origin".
 
 
-### Option 2: Using git
+### Option 2: Using git (requires terminal knowledge)
 
 `git` is a software versioning tool.  It will allow you to fetch the latest version of the notebook repository to your computer.
 You can find instructions on how to install git [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
@@ -102,7 +106,7 @@ to install the repository on your computer.
 Once you interact with the files and make changes, your code will necessarily diverge from the "origin" repository. As part of the course, we'll talk about git branches and how to keep track of changes locally while still incorporating changes from a "main" branch.
 
 
-### Option 3: Direct download
+### Option 3: Direct download (not recommended, but a backup)
 
 If you don't want to use git, you can always just download a snapshot of the repository each week before class.
 
