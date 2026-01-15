@@ -48,7 +48,6 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics79L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
   * [Notebook 3: "Hubble constant measurements"](https://github.com/KIPAC/Physics79L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
 
-<!-- 
 * __Notes for Week 2__: 
   * Topics: Weighted averages and Poisson statistics
   * [Class Slides](https://docs.google.com/presentation/d/1Q22TVtUrDc6y_9HTC5t4RxBeNDE-NSesceukpSsUUdY/edit?usp=drive_link)
@@ -56,6 +55,7 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics79L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
   * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics79L/blob/main/nb/02_02_Counting_Muons.ipynb)
 
+<!-- 
 * __Notes for Week 3__: 
   * Topics: Uncertainty propagation
   * [Class Slides](https://docs.google.com/presentation/d/15c9zM0Vq8HH_fMxb9PMBO7cXBRIOX5ayRApTRHYHP4A/edit?usp=drive_link)
