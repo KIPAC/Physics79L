@@ -55,7 +55,6 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Hubble constant uncertainties"](https://github.com/KIPAC/Physics79L/blob/main/nb/02_01_Hubble_Constant_Uncertainties.ipynb)
   * [Notebook 2: "Counting muons"](https://github.com/KIPAC/Physics79L/blob/main/nb/02_02_Counting_Muons.ipynb)
 
-<!-- 
 * __Notes for Week 3__: 
   * Topics: Uncertainty propagation
   * [Class Slides](https://docs.google.com/presentation/d/15c9zM0Vq8HH_fMxb9PMBO7cXBRIOX5ayRApTRHYHP4A/edit?usp=drive_link)
@@ -63,7 +62,7 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Propagation of Uncertainty"](https://github.com/KIPAC/Physics79L/blob/main/nb/03_01_Propagation_of_Uncertainty.ipynb)
   * [Notebook 2: "More propagation of Uncertainties"](https://github.com/KIPAC/Physics79L/blob/main/nb/03_02_More_Uncertainty_Propagation.ipynb)
 
-
+<!-- 
 * __Notes for Week 4__: 
   * Topics: Gaussians and p-values
   * [Class Slides](https://docs.google.com/presentation/d/1XFNkLLN-sxIA__LAidkDnwq4XpkjwgPe79OFbzpjqVs/edit?usp=drive_link)
