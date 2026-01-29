@@ -62,7 +62,6 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Propagation of Uncertainty"](https://github.com/KIPAC/Physics79L/blob/main/nb/03_01_Propagation_of_Uncertainty.ipynb)
   * [Notebook 2: "More propagation of Uncertainties"](https://github.com/KIPAC/Physics79L/blob/main/nb/03_02_More_Uncertainty_Propagation.ipynb)
 
-<!-- 
 * __Notes for Week 4__: 
   * Topics: Gaussians and p-values
   * [Class Slides](https://docs.google.com/presentation/d/1XFNkLLN-sxIA__LAidkDnwq4XpkjwgPe79OFbzpjqVs/edit?usp=drive_link)
@@ -70,6 +69,7 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Let's make a Gaussian"](https://github.com/KIPAC/Physics79L/blob/main/nb/04_01_Lets_Make_A_Gaussian.ipynb)
   * [Notebook 2: "Vela pulsar"](https://github.com/KIPAC/Physics79L/blob/main/nb/04_02_Vela_Pulsar.ipynb)
 
+<!-- 
   
 * __Notes for Week 5__: 
   * Topics: Covariance, correlation, chi-square fitting
