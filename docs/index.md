@@ -68,8 +68,6 @@ as well as the notebooks that we will work with for a particular week.
   * [Background and reference](Week4.md)
   * [Notebook 1: "Let's make a Gaussian"](https://github.com/KIPAC/Physics79L/blob/main/nb/04_01_Lets_Make_A_Gaussian.ipynb)
   * [Notebook 2: "Vela pulsar"](https://github.com/KIPAC/Physics79L/blob/main/nb/04_02_Vela_Pulsar.ipynb)
-
-<!-- 
   
 * __Notes for Week 5__: 
   * Topics: Covariance, correlation, chi-square fitting
@@ -78,6 +76,7 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Correlations"](https://github.com/KIPAC/Physics79L/blob/main/nb/05_01_Correlations.ipynb)
   * [Notebook 2: "Fitting a line to data"](https://github.com/KIPAC/Physics79L/blob/main/nb/05_02_Fitting_A_Line_to_Data.ipynb)
 
+<!-- 
 
 * __Notes for Week 6__: 
   * Topics: Minimizers and fitting
