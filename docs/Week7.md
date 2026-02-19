@@ -38,7 +38,7 @@ The S1 and S2 signal structures look slightly different, which helps us identify
 
 Different types of interactions can create different sizes of S2, however. Dark matter scatters will generally produce less S2 light than will a background gamma ray or beta ray with a similar deposited energy. Having tools to suppress background, and equally importantly, discriminate background from our desired dark matter signal, allows us to mount ever more-sensitive searches for dark matter.
 
-The LZ experiment will be turning on very soon, so stay tuned for word on our search!
+The LZ experiment has turned on and is collecting data for a 1000-day continuous run, so stay tuned for word on the search!
 
 
 
