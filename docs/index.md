@@ -83,8 +83,6 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Optimizing a fit and how to do it wrong"](https://github.com/KIPAC/Physics79L/blob/main/nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
   * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics79L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
 
-<!-- 
-
 * __Notes for Week 7__: 
   * Topics: Data selection, efficiency, leakage, and rare event searches
   * [Class Slides](https://docs.google.com/presentation/d/1BRbgGACrtwZ6QidipfxqH2ctwQAQ-I8XNcygMymDpCU/edit?usp=drive_link)
@@ -92,6 +90,7 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Optimizing selections"](https://github.com/KIPAC/Physics79L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
   * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics79L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
 
+<!-- 
 
 * __Notes for Week 8__: 
   * Topics: Frequency analysis
