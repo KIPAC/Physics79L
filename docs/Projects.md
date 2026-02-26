@@ -4,11 +4,10 @@
 
 The final projects are intended to allow you to use concepts learned in the course to investigate scientific data. We have a number of template projects, or you can design your own project. 
 
-Some expectations:
-
-     * We expect you to work in small groups of 2-3 people (unless working on an independent topic).
-     * The project should incorporate data analysis techniques that we have learned in the course.
-     * Each person should complete a written report describing the project. Be sure to use your own words.
+* Some expectations:
+     1. We expect you to work in small groups of 2-3 people (unless working on an independent topic).
+     2. The project should incorporate data analysis techniques that we have learned in the course.
+     3. Each person should complete a written report describing the project. ***Be sure to use your own words***.
 
 Here is an [example of a report](https://docs.google.com/document/d/1X4QYH8QKeheJirxuZ2r7pHWNBmFtWWT6prtepKB_Q8s/edit?usp=sharing). The report should be 2-3 pages and include any plots and numbers that you produced in the project. Please be sure to explain each plot and the purpose/context behind each step. Please describe the data you used as well. If you don't have a group, please contact one of the teaching staff as soon as possible.
 

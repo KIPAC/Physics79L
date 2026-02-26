@@ -90,8 +90,6 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Optimizing selections"](https://github.com/KIPAC/Physics79L/blob/main/nb/07_01_Cuts_Acceptance_Leakage.ipynb)
   * [Notebook 2: "Performing a dark matter search"](https://github.com/KIPAC/Physics79L/blob/main/nb/07_02_Performing_a_Dark_Matter_Search.ipynb)
 
-<!-- 
-
 * __Notes for Week 8__: 
   * Topics: Frequency analysis
   * [Class Slides](https://docs.google.com/presentation/d/1g0l79OjSIM2GUBezhM1dHcTtfROT20SCcuKH7YWxO08/edit?usp=drive_link)
@@ -99,10 +97,13 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Introduction to Fourier Analysis"](https://github.com/KIPAC/Physics79L/blob/main/nb/08_01_Intro_Fourier_Analysis.ipynb)
   * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/KIPAC/Physics79L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
 
+<!-- 
 
 * __Final Projects__:
   * [Class Slides](https://docs.google.com/presentation/d/10YKVkjxh4nEwxP5dIoUdw5rXU3bnD82RMjLdkXNE-6g/edit?usp=drive_link)
-  * [Overview](Projects.md)  -->
+  * [Overview](Projects.md)  
+  
+  -->
 
 
 
@@ -118,5 +119,5 @@ Mod. Physics 89L -> Physics 79L Winter 2026 Charles Blakemore
 
 If you have any feedback for us, please write us an issue.
 
-<!--  LocalWords:  jupyter setup.md Linehan
+<!--  LocalWords:  jupyter setup.md Linehan Navid Safvati Gaussian Gaussians
  -->
