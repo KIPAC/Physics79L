@@ -18,13 +18,15 @@ For each project, we have provided you with most of the necessary code in some f
 ### Template projects
 Here is a description of the six template projects available:
 
+
 #### 1. Quantifying the "Hubble Tension"
 
 - [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_Hubble_Tension.ipynb)
 
 - In the first couple weeks of the class we saw that the measurements of the Hubble parameter were not distributed as a Gaussian. This project involves investigating the difference between two techniques used to measure the Hubble parameter, and evaluating if these two techniques are giving consistent results.
 
-- This project requires a limited amount of programming, and it will ask you to apply concepts from this course to quantify the significance of how consistent measurements are.
+- This project requires a limited amount of programming, and it will ask you to apply concepts from this course to quantify the significance of measurement consistency.
+
 
 #### 2. Gaining a deeper understanding of fitting model parameters
 
@@ -34,13 +36,15 @@ Here is a description of the six template projects available:
 
 - This project requires you to program a few of your own functions and to take partial derivatives. It will explore the fitting concepts by asking you to analytically solve for the best fit value of a fitted model parameter.
 
+
 #### 3. A search for the Higgs boson
 
 - [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_Higgs_Search.ipynb)
 
-- This project is similar to the dark matter search, but instead you will be looking evidence of a new particle in collisions at the Large Hadron Collider. 
+- This project is similar to the dark matter search, but instead you will be looking for evidence of a new particle in collisions at the Large Hadron Collider. 
 
 - This project includes understanding a lot of code, but most of it is written for you, so it requires very little programming from scratch. It will explore concepts of statistical significance and how to design a sensitive search for a new particle.
+
 
 #### 4. A search for exoplanets using Fourier analysis
 
@@ -50,13 +54,15 @@ Here is a description of the six template projects available:
 
 - This project requires a limited amount of programming. It will explore concepts of statistical significance and Fourier transforms.  
 
+
 #### 5. Calibrating an Optical Tweezer using Fourier analysis
 
 - [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_Optical_Tweezers_Calibration.ipynb)
 
-- This project will make use of Fourier techniques to calibrate the response of an optically levitated microsphere to external forces. This is accomplished by configuring the microsphere to have single excess electron and thus a net charge of $q = -e$, and then driving it with a known electric field and observing the response.
+- This project will make use of Fourier techniques to calibrate the response of an optically levitated microsphere to external forces. This is accomplished by configuring the microsphere to have a single excess electron and thus a net charge of $q = -e$, and then driving it with a known electric field and observing the response.
 
 - This project is reasonably straightforward from a conceptual standpoint, but will require you to think about the Fourier Transform and write some of your own functions and array manipulations  
+
 
 #### 6. Writing an Automated Peak-Fitting Algorithm
 

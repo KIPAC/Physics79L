@@ -97,14 +97,9 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Introduction to Fourier Analysis"](https://github.com/KIPAC/Physics79L/blob/main/nb/08_01_Intro_Fourier_Analysis.ipynb)
   * [Notebook 2: "Ripples in 2D Electron Gas"](https://github.com/KIPAC/Physics79L/blob/main/nb/08_02_Ripples_in_2D_Electron_Gas.ipynb)
 
-<!-- 
-
 * __Final Projects__:
   * [Class Slides](https://docs.google.com/presentation/d/10YKVkjxh4nEwxP5dIoUdw5rXU3bnD82RMjLdkXNE-6g/edit?usp=drive_link)
   * [Overview](Projects.md)  
-  
-  -->
-
 
 
 ## Contact and Legal
